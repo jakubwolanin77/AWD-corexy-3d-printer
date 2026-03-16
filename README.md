@@ -111,7 +111,45 @@ The current prototype revealed two mechanical design flaws that are actively bei
 
 ## 📁 Repository Structure
 
+```
+AWD-corexy-3d-printer/
+├── README.md
+├── LICENSE                              # GPL-3.0
+│
+├── CAD/                                 # Custom-designed components (STEP format)
+│   ├── XY motor front right mounting.step
+│   ├── XY motor front-left mounting.step
+│   ├── XY motor rear-left mounting.step
+│   ├── XY motor rear-right mounting.step
+│   ├── Z motor left mounting.step
+│   ├── Z motor rear mounting.step
+│   ├── Z motor right mounting.step
+│   ├── endstop X mounting.step
+│   ├── gantry mounting left.step
+│   ├── gantry mounting right.step
+│   ├── heated bed mounting back.step
+│   ├── heated bed mounting left.step
+│   ├── heated bed mounting right.step
+│   ├── klickyNG dock mounting.step
+│   ├── printhead mounting1.step
+│   └── printhead mounting2.step
+│
+├── conf files/                          # Real Klipper configuration files
+│   ├── printer.cfg                      # Main Klipper config (BTT Octopus Pro, CoreXY AWD)
+│   ├── mainsail.cfg                     # Mainsail UI configuration
+│   ├── moonraker.conf.txt               # Moonraker API server config
+│   ├── octoeverywhere.conf.txt          # OctoEverywhere remote access config
+│   └── crowsnest.conf                   # Camera streaming config
+│
+└── documentation/                       # Engineering documentation & schematics
+    ├── Jakub Wolanin-praca inż.pdf      # Full engineering thesis (Polish)
+    ├── Załącznik 1 Schemat połączeń elektrycznych  # Wiring schematic
+    ├── schemat sterowanie i komunikacja            # Control & communication diagram
+    └── schemat zasilanie.png            # Power supply schematic
+```
 
+
+---
 
 ## 🚀 Quick Start — Klipper Config
 

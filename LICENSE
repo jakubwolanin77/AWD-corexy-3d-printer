@@ -1,0 +1,32 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2025 Jakub Wolanin
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+This project builds upon several open-source projects, each with their own licenses:
+
+- Klipper         — GPL-3.0  — https://github.com/Klipper3d/klipper
+- Moonraker       — GPL-3.0  — https://github.com/Arksine/moonraker
+- Mainsail        — GPL-3.0  — https://github.com/mainsail-crew/mainsail
+- Dragon Burner   — GPL-3.0  — https://github.com/chirpy2605/voron-user-mods
+- Sherpa Mini     — GPL-3.0  — https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
+- KlickyNG Probe  — GPL-3.0  — https://github.com/jlas1/Klicky-Probe
+- YOLOv8          — AGPL-3.0 — https://github.com/ultralytics/ultralytics
+- OctoPrint       — AGPL-3.0 — https://github.com/OctoPrint/OctoPrint
+
+The full text of GPL-3.0 is available at: https://www.gnu.org/licenses/gpl-3.0.html

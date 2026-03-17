@@ -16,7 +16,7 @@ This repository contains the complete engineering documentation and source files
 
 The printer is built on open-source solutions (Klipper, Mainsail, Moonraker)
 
-<img width="652" height="1156" alt="Assembled printer" src="https://github.com/user-attachments/assets/5e843b05-2f8d-431a-89c0-8483bf8fd92a" />
+<img width="931" height="1125" alt="image" src="https://github.com/user-attachments/assets/972d4a5e-d0e0-4f57-8f92-26d721ddaaac" />
 
 
 ## ✨ Key Features
